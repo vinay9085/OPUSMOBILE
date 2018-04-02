@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring Boot Web JSP Sample
+Implementation-Version: 2.0.0.RELEASE
+Built-By: reddy
+Implementation-Vendor-Id: org.springframework.boot
+Build-Jdk: 1.8.0_162
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-sample-web-jsp
+Created-By: Maven Integration for Eclipse
+
